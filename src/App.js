@@ -7,7 +7,7 @@ import Footer from "./Compoonents/Common/Footer/Footer";
 import ProductCategoury from "./Compoonents/Features/ProductCategoury/ProductCategoury";
 import ShowNavbarFooter from "./Compoonents/ShowNavbar&Footer/ShowNavbarFooter";
 
-<<<<<<< HEAD
+
 // import Fetch from "./Compoonents/Features/Fetch/Fetch";
 // import { useGlobalContextHook } from "./Compoonents/Contaxt/Contaxt";
 
@@ -35,7 +35,6 @@ function App() {
       <Route path="Sell" element={ <Sell /> } />
     </Routes>
    
-<<<<<<< HEAD
    
     <Footer/>
 =======
