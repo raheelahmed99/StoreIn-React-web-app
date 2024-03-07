@@ -12,13 +12,6 @@ import ShowNavbarFooter from "./Compoonents/ShowNavbar&Footer/ShowNavbarFooter";
 // import { useGlobalContextHook } from "./Compoonents/Contaxt/Contaxt";
 
 function App() {
-  // const name = useGlobalContextHook();
- 
-
-
-
-
-function App() {
  
 
   return (
